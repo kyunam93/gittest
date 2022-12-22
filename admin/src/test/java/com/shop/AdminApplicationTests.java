@@ -10,6 +10,7 @@ class AdminApplicationTests {
 	void contextLoads() {
 		int b = 10;
 		int a = 10;
+		int c = 20;
 	}
 
 }
